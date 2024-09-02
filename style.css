@@ -11,7 +11,7 @@
     --buttonPadding: 0 var(--spaceL);
     --buttonTextColor: rgb(var(--rgbBackground));
     --buttonTextOpacity: 1;
-    /* --buttonLoaderDelay: 0s; */
+    --buttonLoaderDelay: 0s;
 
 
     --spaceOuter: 64px;
