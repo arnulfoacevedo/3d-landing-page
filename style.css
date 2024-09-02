@@ -10,7 +10,7 @@
     --buttonFocusWidth: 4px;
     --buttonPadding: 0 var(--spaceL);
     --buttonTextColor: rgb(var(--rgbBackground));
-    --buttonTextOpacity: 1;
+    /* --buttonTextOpacity: 1; */
     /* --buttonLoaderDelay: 0s; */
 
 
